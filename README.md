@@ -1,19 +1,21 @@
-# Hello, I am <a href="https://www.linkedin.com/in/abhay-bisht-042662177/">Abhay Bisht </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> , I made this project DS-SL-ExportImport-EDA
+# Export Import Trade Analysis & Visualization 🛳️.
 
-<a href="https://www.kaggle.com/datasets/unitednations/global-commodity-trade-statistics">Data Set Link</a>
+=> Usage 🏢
 
-## Usage 🏢
-Gives analytical information about trades of any country and you can also compare trades between two countries.
+Gives analytical information about trade of any country and you can also compare trade between two countries.
 
-## Message 📃
-Still in Development Phase
-
-## Main Libraries 🔥
+=> Teck Stack Used🔥
 - <a href="https://pandas.pydata.org/docs/user_guide/index.html">Pandas</a> 
 - <a href="https://numpy.org/doc/stable/user/index.html#user">Numpy</a> 
 - <a href="https://docs.streamlit.io/">StreamLit</a> 
 
-## Code For Installing Packages 📦
+=> How To Run ...🏃...
+- Download and Unzip The File
+- download all packages
+- streamlit run mainCode.py
+- download the data set from Kaggle and put it in the same directory
+
+=> Code For Installing Packages 📦
 ```python
       #Install Me
       pip install numpy
@@ -23,13 +25,17 @@ Still in Development Phase
       pip install streamlit-lottie
       #after that run streamlit run mainCode.py
 ```
+=> Application Demo  
+<div align="center">
 
-## How To Run ...🏃...
-- Download and Unzip The File
-- download all packages
-- streamlit run mainCode.py
-- download the data set from kaggle and put it in the same directory
 
+
+https://github.com/Znoy108x/DS-SL-Export-Import-Trade-Visualizer/assets/75539409/6dfbe3d9-2a90-437c-8662-60cfa174d445
+
+
+
+
+</div>
 <pre>
        /ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ\
       |           See You Soon .. 🤝            |
@@ -39,6 +45,6 @@ Still in Development Phase
               (oo)\_______
               (__)\ 0   0 )\  *
                   ||--0-w | \/                                                                       
-                  ||     ||                                                                    Abhay Bisht ^.^
-ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
+                  ||     ||                                                                 
+ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ
 </pre>
