@@ -1,14 +1,5 @@
-numpy
-pandas
-streamlit
-streamlit-folium
-streamlit-lottie
-plotly
-countryinfo
-folium
-pycountry
-requests
-requests-oauthlib
-chart-studio
-DateTime
-htbuilder
+      pip install numpy
+      pip install requests
+      pip install pandas
+      pip install streamlit
+      pip install streamlit-lottie
