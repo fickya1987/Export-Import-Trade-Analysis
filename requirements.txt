@@ -1,5 +1,5 @@
-      pip install numpy
-      pip install requests
-      pip install pandas
-      pip install streamlit
-      pip install streamlit-lottie
+numpy
+requests
+pandas
+streamlit
+streamlit-lottie
