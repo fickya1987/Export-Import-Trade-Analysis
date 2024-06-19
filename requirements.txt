@@ -6,3 +6,4 @@ streamlit-lottie
 plotly
 chart_studio
 countryinfo
+folium
